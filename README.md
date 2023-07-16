@@ -72,11 +72,22 @@ Adam Rivers https://abtzpro.github.io
 
 Hello Security LLC https://hellosecurityllc.github.io
 
-## Special Thanks
+## Extra Special Thanks
 
-- openAI for learning resources and generative AI research capabilities.
+Datasets
 
-- Google for their quantum computing learning resources and qauntum computing programming language.
+The Wine dataset used in the script is a part of the sklearn.datasets module. Special thanks to the creators of the dataset for making it freely available for educational and research purposes.
 
-- All of the fellow data scientists and AI engineers working in collaboration to achieve a mainstream revolutionary new quantum AI along with advancements in the field of AI and quantum computing. 
+Libraries and Functions
 
+	•	PennyLane: A key component in this script, PennyLane is an open-source library for quantum machine learning. It allows us to design and train quantum circuits, create quantum/classical hybrid computational models, and optimize these models. Thank you to the developers of PennyLane for their great work in making quantum machine learning more accessible. You can check out their work here.
+	•	NumPy: An essential library for numerical computation in Python. This script heavily relies on NumPy for data manipulation and mathematical operations. Thanks to the NumPy team for their robust and efficient library. More information can be found here.
+	•	scikit-learn (sklearn): The script uses scikit-learn for several tasks including data loading, data splitting, data preprocessing, and for the Support Vector Classifier model. Thanks to the scikit-learn developers for this comprehensive machine learning library. More information can be found here.
+
+Special Thanks
+
+	•	To the Quantum Machine Learning and Quantum Computing community for their research and work in the field, which was essential in the development of this script.
+	•	To the OpenAI team for developing and training the GPT model, which helped in researching the requirements for this script.
+	•	Finally, thank you to all the developers and researchers in the field of quantum computing and machine learning for their continuous efforts in pushing the boundaries of what is possible.
+
+This script would not be possible without all these contributions. Thank you!
