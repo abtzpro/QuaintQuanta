@@ -76,7 +76,7 @@ Hello Security LLC https://hellosecurityllc.github.io
 
 - openAI for learning resources and generative AI research capabilities.
 
-- Google for their quantum computing learning resources and qauntum vomputing programming language.
+- Google for their quantum computing learning resources and qauntum computing programming language.
 
 - All of the fellow data scientists and AI engineers working in collaboration to achieve a mainstream revolutionary new quantum AI along with advancements in the field of AI and quantum computing. 
 
