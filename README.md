@@ -1,5 +1,5 @@
 # QuaintQuanta
-Quantum Machine Learning (QML) in Python 
+Quantum Machine Learning (QML) AI in Python 
 
 This repository contains the QuaintQuanta (QQ.py) Python script demonstrating the application of Quantum Machine Learning (QML) to solve a classification problem using both quantum and classical machine learning methods.
 
